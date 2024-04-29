@@ -4,9 +4,9 @@ Aqui está um guia passo a passo para compilar e executar o Backstage utilizando
 
 ## Instalar o Backstage
 
-1. Clone o repositório do Backstage:
+1. Clone o repositório:
     ```bash
-    git clone https://github.com/backstage/backstage.git
+    git clone https://github.com/AbnerSilvaBarbosa/ponderada-backstage
     ```
 
 2. Navegue até o diretório da aplicação e instale as dependências:
